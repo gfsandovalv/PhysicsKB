@@ -1,0 +1,1 @@
+La escala, orden de magnitud, rango de validez... no es lo mismo que la localidad. Esta última habla de la imposición sobre la velocidad a la que la información puede viajar a través del espacio. Un fenómeno se dice local si la perturbación provocada en un punto $A$ se propaga por el espacio, a velocidades menores a $c$, hasta un punto $B$. 

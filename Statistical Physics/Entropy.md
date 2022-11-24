@@ -1,0 +1,1 @@
+Entropy as disorder is sort of a misconception, since that definition depends entirely on a **given** definition of order.

@@ -1,0 +1,3 @@
+Temperatura máxima a la cuál se da la condensación del vapor de agua presente en el aire. 
+
+> In technical terms, the dew point is the temperature at which the water vapor in a sample of [air](https://en.m.wikipedia.org/wiki/Air "Air") at constant [barometric pressure](https://en.m.wikipedia.org/wiki/Barometric_pressure "Barometric pressure") condenses into liquid water at the same [rate](https://en.m.wikipedia.org/wiki/Reaction_rate "Reaction rate") at which it evaporates. (https://en.m.wikipedia.org/wiki/Dew_point#cite_note-7) At temperatures below the dew point, the rate of condensation will be greater than that of evaporation, forming more liquid water.
