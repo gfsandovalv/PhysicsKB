@@ -2,3 +2,4 @@
 [[Tarea]] indivudiaul de termodinámica
 
 [[Complex analysis - an exercise]]
+Magnetostatics

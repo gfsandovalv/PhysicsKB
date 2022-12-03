@@ -18,3 +18,6 @@ Emite 8 pulsos de 40 Hz, es decir, 8 pulsos cuadrados con una separación tempor
 How to count the difference in frecuency from pulses?
 Counting pulses and its duration
 
+#materiales 
+cable naranja
+dos rollos

@@ -1,0 +1,1 @@
+¿qué es un sistema de referencia instantáneamente en reposo?
