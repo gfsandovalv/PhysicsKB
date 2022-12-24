@@ -1,5 +1,10 @@
-[[Efecto doppler usando un montaje automatizado con arduino]]
-[[Tarea]] indivudiaul de termodinámica
+## Writing and solving
 
-[[Complex analysis - an exercise]]
+[[Trajectories]]
+
 Magnetostatics
+
+## Reading
+
+[what is Cohomology](https://drive.google.com/file/d/1yfafTJPQRbOWjtPbHqASofuy027VT0Co/view)
+[[Complex analysis - an exercise]]
