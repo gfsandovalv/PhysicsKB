@@ -20,6 +20,15 @@ $$
 	\Longrightarrow \dd{\vec T}{t} \cdot \vec T &= 0
 \end{align}
 $$
+## Arc lenght: Traveled distance
+
+
+$$
+\begin{align}
+	s(t) = \int_{t_0}^t \d t  \abs{\vec v (t)}
+\end{align}
+$$
+
 
 # References
 1. [Differential geometry of curves and surfaces - Ch 1](file:///home/gabo/Zotero/storage/L3GCRFG6/Carmo%20-%202018%20-%20Differential%20geometry%20of%20curves%20&%20surfaces.pdf)
